@@ -1,4 +1,4 @@
-#Image Classification using Transfer Learning VGG16 Model
+Image Classification using Transfer Learning VGG16 Model
 Greendeck is a vendor who helps retailers in identifying / classification of images in correct categories & further helps in price intelligence.
 
 This problem has potentially two aspects :
